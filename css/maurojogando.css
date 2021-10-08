@@ -1,0 +1,19 @@
+/* css para maurojogando*/
+body {
+    margin-inline: 1em 2em; background-color: beige; padding: 50px 200px 20px;
+}
+h1 {
+    color: blue; background-color: darkgrey;text-align: center; font-size: xx-large;
+}
+h2 {
+    color: cornflowerblue;
+}
+h3 {
+    color:rgb(0, 247, 255);
+}
+h4 {
+    color: darkcyan;
+}
+p {
+    text-align: center;
+}
